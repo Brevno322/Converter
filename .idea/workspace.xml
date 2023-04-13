@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="414ecf09-ffc3-49f1-a96b-6e1373782525" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/~$world.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/~$world2.dotx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/test1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test4.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test7.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$test8.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NxiuS8weTcegT0Yh4XktIFIlCB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
+    "last_opened_file_path": "C:/D/Spring_Boot_projects/Converter/src/main/resources",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\D\Spring_Boot_projects\Converter\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConverterExelInDocxMain">
+    <configuration name="ConverterExelInDocxMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConverterExelInDocxMain" />
+      <module name="Converter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleDocx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampleDocx" />
+      <module name="Converter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TRRFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TRRFS" />
+      <module name="Converter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test3" />
+      <module name="Converter" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConverterExelInDocxMain" />
+        <item itemvalue="Application.TRRFS" />
+        <item itemvalue="Application.Test3" />
+        <item itemvalue="Application.SampleDocx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="414ecf09-ffc3-49f1-a96b-6e1373782525" name="Changes" comment="" />
+      <created>1680612358136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680612358136</updated>
+      <workItem from="1680612359611" duration="6448000" />
+      <workItem from="1680675189984" duration="19998000" />
+      <workItem from="1680705903334" duration="7565000" />
+      <workItem from="1680780845348" duration="4557000" />
+      <workItem from="1680874650087" duration="9536000" />
+      <workItem from="1680888207886" duration="1710000" />
+      <workItem from="1680944362661" duration="6285000" />
+      <workItem from="1681114126515" duration="1642000" />
+      <workItem from="1681284522012" duration="22583000" />
+      <workItem from="1681315699790" duration="2064000" />
+      <workItem from="1681332207889" duration="7166000" />
+      <workItem from="1681339455747" duration="440000" />
+      <workItem from="1681339931427" duration="2173000" />
+      <workItem from="1681398842781" duration="5207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
